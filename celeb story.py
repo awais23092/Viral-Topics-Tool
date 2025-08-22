@@ -16,9 +16,13 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "latest celebrity news", "celeb update", "blake lively", "rachel zegler", 
-"celebrity affair", "celebrity",
-"meghan"
+ "Scary Horror Stories", "Reddit Horror Update", "Reddit Horror Advice", 
+ "Reddit Horror", "Reddit Ghost Stories", "AITA Horror Update", 
+ "Haunted House Story", "Creepy Encounter", "Ghost Caught", "Stories Horror", 
+ "Cursed Reddit", "AskReddit Surviving Horror", "Creepypasta Reddit", "Horror Story Actually Happened", 
+ "Horror Story Real", "True Horror Story", "Reddit Horror Story", "R/NoSleep", "Surviving Horror", "Reddit Paranormal", 
+ "Scary Story I Can't Forget", "Reddit Demon", "Exposed Haunted House", 
+ "Ghost Exposed"
 ]
 
 # Fetch Data Button
